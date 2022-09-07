@@ -1,5 +1,8 @@
 import React from 'react';
 
+import './app.css';
+
 export const App = () => (
-    <div />
+    <div className="app">
+    </div>
 );
